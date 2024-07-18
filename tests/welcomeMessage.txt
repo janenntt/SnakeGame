@@ -1,0 +1,8 @@
+
+Input       Expected Output                     Output
+Jane        Welcome to Snake Game, Jane!        Welcome to Snake Game, Jane!
+John        Welcome to Snake Game, John!        Welcome to Snake Game, John!
+Chloe       Welcome to Snake Game, Chloe!       Welcome to Snake Game, Chloe!
+@#2$d       Warning:Invalid input.              Warning: Invalid input. Name can only contain letters.
+            Name can only contain letters.      Please enter your name:
+            Please enter your name:  

@@ -1,0 +1,70 @@
+
+% Test case 1
+Score: checked
+Sound: checked 
+Mode: Original
+Level: 3
+File/New Game or Ctrl+N to start a new game
+
+Move the snake:
+- press the 'left arrow' key - snake turns left
+- press the 'right arrow' key - snake turns right
+- press the 'up arrow' key - snake moves up
+- press the 'down arrow' key - snake moves down
+
+Direct the snake to eat food: 
+- the snakes successfully eating food creates an eating sound 
+- the score is updated: +3 after eating food (level 3)
+- the length of the snake is increased by 1 
+
+The snake biting itself:
+- creates a sound
+- 'Game over !' message box pops up on the screen
+- click 'OK' will close the message box 
+
+
+
+% Test case 2
+Score: checked
+Sound: change from checked -> unchecked
+Mode: Box
+Level: 4
+File/New Game or Ctrl+N to start a new game
+
+Direct the snake to eat food: 
+- the snakes successfully eating food does not create an eating sound 
+- the score is updated: +4 after eating food (level 4)
+- the length of the snake is increased by 1 
+        
+Pause the game by pressing the space bar or the 'P' key.
+Press the space bar/'P' key to resume the game.
+
+The snake biting itself:
+- no sound
+- 'Game over !' message box pops up on the screen
+- click 'OK' will close the message box
+
+
+
+% Test case 3
+Score: unchecked 
+Sound: change from unchecked -> checked
+Mode:  Maze
+Level: 2
+File/New Game or Ctrl+N to start a new game
+
+Direct the snake to eat food: 
+- the snakes successfully eating food creates an eating sound 
+- the score is still updated but not showed 
+- the length of the snake is increased by 1 
+        
+Pause the game by pressing the space bar or the 'P' key.
+Press the space bar/'P' key to resume the game.
+
+The snake hits the barriers:
+- creates a collision sound
+- 'Game over !' message box pops up on the screen
+- click 'OK' will close the message box
+- Click 'x' button on the top of the figure to close the figure
+
+ 

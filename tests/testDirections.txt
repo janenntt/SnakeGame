@@ -1,0 +1,23 @@
+
+% Test case 1
+Press the 'left arrow' key (28)
+Expected result: the snake turns left
+Result: the snake turns left
+
+
+% Test  case 2
+Press the 'right arrow' key (29)
+Expected result: the snake turns left
+Result: the snake turns right
+
+
+% Test case 3
+Press the 'up arrow' key (30)
+Expected result: the snake turns left
+Result: the snake moves up
+
+
+% Test case 4
+Press the 'down arrow' key (31)
+Expected result: the snake turns left
+Result: the snake moves down

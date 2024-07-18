@@ -1,0 +1,28 @@
+
+%test case 1
+Mode: Box
+Level: 1
+Score: checked
+The snake hits the wall after eating food 5 times
+Expected result: 5 is showed at the bottom right of the playing field
+Result: 5 is showed at the bottom right of the playing field
+
+
+%test case 2
+Mode: Original
+Level: 4
+Score: checked
+The snake bites itself after eating food 10 times
+Expected result: 40 is showed at the bottom right of the playing field
+Result: 40 is showed at the bottom right of the playing field
+
+
+
+%test case 3
+Mode: Maze
+Level: 3
+Score: unchecked
+The snake bites itself after eating food once
+Expected result: the score (=3) is hidden
+Result: the score (=3) is hidden
+

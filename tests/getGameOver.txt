@@ -1,0 +1,40 @@
+
+%Test case 1
+Mode: Original 
+Level: 1
+The snake bites itself:
+Expected ouput: 'Game Over !' message box pops up
+Output: 'Game Over !' message box pops up
+
+
+%Test case 2
+Mode: Box
+Level: 3
+The snake hits the wall: 
+Expected ouput: 'Game Over !' message box pops up
+Output: 'Game Over !' message box pops up
+
+
+%Test case 3
+Mode: Maze
+Level: 2
+The snake hits the wall: 
+Expected ouput: 'Game Over !' message box pops up
+Output: 'Game Over !' message box pops up
+
+
+%Test case 4
+Mode: Box
+Level: 4
+The snake bites itself:
+Expected ouput: 'Game Over !' message box pops up
+Output: 'Game Over !' message box pops up
+
+
+%Test case 5
+Mode: Maze
+Level: 1
+The snake bites itself:
+Expected ouput: 'Game Over !' message box pops up
+Output: 'Game Over !' message box pops up
+

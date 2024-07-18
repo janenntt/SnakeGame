@@ -1,0 +1,27 @@
+
+%test case 1
+Sound: checked
+The snake hits the wall:
+Expected result: hear a sound 
+Result: hear a sound
+
+
+%test case 2
+Sound: checked
+The snake bites itself:
+Expected result: hear a sound 
+Result: hear a sound
+
+
+%test case 3
+Sound: unchecked
+The snake hits the wall:
+Expected result: no sound
+Result: no sound
+
+
+%test case 4
+Sound: unchecked
+The snake bites itself:
+Expected result: no sound
+Result: no sound
